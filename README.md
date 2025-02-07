@@ -41,3 +41,9 @@ git add. \\ saves files to git.
 
 # now when we do normal git add commit push it will update only to the feature branch not master
     when we check out and switch back to main all the altered text dissapears.
+
+### final step:
+    after working in github doin the pull stuff go back to vs code:
+        -git checkout main
+        -git pull
+        -git branch -d feature-readme-instrsuctions

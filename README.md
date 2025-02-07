@@ -38,3 +38,6 @@ git add. \\ saves files to git.
     now when u type git branch it shows ur in the feature-readme-instrusctions
     * feature-readme-instrusctions
     main
+
+# now when we do normal git add commit push it will update only to the feature branch not master
+    when we check out and switch back to main all the altered text dissapears.

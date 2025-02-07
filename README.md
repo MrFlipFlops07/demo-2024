@@ -15,6 +15,7 @@ git add. \\ saves files to git.
 5) ### git add .
     will commit the changes but wont update to cloud git repo
 6) ### git commit -m "main header" -m "description box"
+7) git push also maybe
 
 ## for keygeneration
 1) ssh-keygen -t rsa -b 4096 -C "nairsreejith0707@gmail.com"    in command line
@@ -25,3 +26,15 @@ git add. \\ saves files to git.
 
 ## for final push
 1) "git push origin main"
+
+# LOCAL DEVELOPVEMENT
+
+## BRANCHES 
+    type git branch : shows master or main
+    * main
+
+### to create new branch
+    git checkout -b feature-readme-instrusctions
+    now when u type git branch it shows ur in the feature-readme-instrusctions
+    * feature-readme-instrusctions
+    main
